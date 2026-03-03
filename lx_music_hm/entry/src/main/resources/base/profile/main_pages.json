@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/HomePage",
+    "pages/PlayerDetailPage",
+    "pages/SongListDetailPage"
+  ]
+}

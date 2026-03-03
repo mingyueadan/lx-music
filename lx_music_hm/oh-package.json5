@@ -1,0 +1,8 @@
+{
+  "modelVersion": "6.0.2",
+  "name": "lx_music_hm",
+  "version": "1.0.0",
+  "description": "LX Music HarmonyOS NEXT Version - 洛雪音乐助手",
+  "dependencies": {},
+  "devDependencies": {}
+}

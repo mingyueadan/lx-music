@@ -1,0 +1,8 @@
+{
+  "modelVersion": "6.0.2",
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "LX Music HarmonyOS Entry Module",
+  "dependencies": {},
+  "devDependencies": {}
+}
