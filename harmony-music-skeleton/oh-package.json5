@@ -1,0 +1,17 @@
+{
+  "name": "harmony-music",
+  "version": "1.0.0",
+  "description": "鸿蒙音乐播放器应用",
+  "main": "",
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@ohos/axios": "^2.2.0",
+    "@ohos/datastore": "^1.0.0",
+    "@ohos/preferences": "^1.0.0",
+    "@ohos/fileio": "^1.0.0"
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  }
+}

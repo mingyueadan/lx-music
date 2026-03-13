@@ -2,55 +2,55 @@
   "string": [
     {
       "name": "app_name",
-      "value": "洛雪音乐"
+      "value": "LX Music"
     },
     {
       "name": "search_placeholder",
-      "value": "搜索音乐、歌手、专辑"
+      "value": "Search music, artist, album"
     },
     {
       "name": "hot_search",
-      "value": "热搜"
+      "value": "Hot Search"
     },
     {
       "name": "my_list",
-      "value": "我的"
+      "value": "My List"
     },
     {
       "name": "leaderboard",
-      "value": "榜单"
+      "value": "Leaderboard"
     },
     {
       "name": "settings",
-      "value": "设置"
+      "value": "Settings"
     },
     {
       "name": "play",
-      "value": "播放"
+      "value": "Play"
     },
     {
       "name": "pause",
-      "value": "暂停"
+      "value": "Pause"
     },
     {
       "name": "next",
-      "value": "下一首"
+      "value": "Next"
     },
     {
       "name": "previous",
-      "value": "上一首"
+      "value": "Previous"
     },
     {
       "name": "loading",
-      "value": "加载中..."
+      "value": "Loading..."
     },
     {
       "name": "no_data",
-      "value": "暂无数据"
+      "value": "No Data"
     },
     {
       "name": "retry",
-      "value": "重试"
+      "value": "Retry"
     }
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "音乐播放器应用"
+    },
+    {
+      "name": "entry_ability_desc",
+      "value": "音乐播放器"
+    },
+    {
+      "name": "entry_ability_label",
+      "value": "音乐播放器"
+    },
+    {
+      "name": "app_name",
+      "value": "音乐播放器"
+    },
+    {
+      "name": "home_title",
+      "value": "首页"
+    },
+    {
+      "name": "player_title",
+      "value": "播放器"
+    },
+    {
+      "name": "search_title",
+      "value": "搜索"
+    },
+    {
+      "name": "setting_title",
+      "value": "设置"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "搜索音乐、歌手、专辑"
+    },
+    {
+      "name": "play",
+      "value": "播放"
+    },
+    {
+      "name": "pause",
+      "value": "暂停"
+    },
+    {
+      "name": "next",
+      "value": "下一首"
+    },
+    {
+      "name": "previous",
+      "value": "上一首"
+    }
+  ]
+}

@@ -1,20 +1,20 @@
 {
   "color": [
     {
-      "name": "primary",
-      "value": "#FF6B6B"
-    },
-    {
-      "name": "primary_dark",
-      "value": "#FF5252"
-    },
-    {
-      "name": "background",
+      "name": "start_window_background",
       "value": "#FFFFFF"
     },
     {
-      "name": "surface",
-      "value": "#F5F5F5"
+      "name": "primary",
+      "value": "#4CAF50"
+    },
+    {
+      "name": "primary_dark",
+      "value": "#388E3C"
+    },
+    {
+      "name": "content_background",
+      "value": "#FFFFFF"
     },
     {
       "name": "font_primary",
@@ -22,11 +22,11 @@
     },
     {
       "name": "font_secondary",
-      "value": "#666666"
+      "value": "#99000000"
     },
     {
       "name": "font_hint",
-      "value": "#999999"
+      "value": "#61000000"
     }
   ]
 }
